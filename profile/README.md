@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.svg" alt="Quai Vault" width="160" />
+  <img src="../assets/logo.svg" alt="Quai Vault" width="160" />
 </p>
 
 <h1 align="center">Quai Vault</h1>
@@ -17,7 +17,7 @@
 <br />
 
 <p align="center">
-  <img src="assets/og-image.png" alt="Quai Vault — Multisig Wallet" width="700" />
+  <img src="../assets/og-image.png" alt="Quai Vault — Multisig Wallet" width="700" />
 </p>
 
 <br />
@@ -197,7 +197,7 @@ Contributions are welcome. Please open an issue or submit a pull request in the 
 ---
 
 <p align="center">
-  <img src="assets/vault.svg" alt="" width="24" />
+  <img src="../assets/vault.svg" alt="" width="24" />
   <br />
   <sub>MIT License</sub>
 </p>
