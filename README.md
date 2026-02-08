@@ -1,6 +1,26 @@
-# Quai Vault
+<p align="center">
+  <img src="assets/logo.svg" alt="Quai Vault" width="160" />
+</p>
 
-**Decentralized multisig wallet infrastructure for the Quai Network.**
+<h1 align="center">Quai Vault</h1>
+
+<p align="center">
+  <strong>Decentralized multisig wallet infrastructure for the Quai Network.</strong>
+</p>
+
+<p align="center">
+  <a href="https://testnet.quaivault.org"><img src="https://img.shields.io/badge/Testnet-Live-e63946?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMiAzMiI+PGNpcmNsZSBjeD0iMTYiIGN5PSIxNiIgcj0iMTUiIGZpbGw9IiMxYTFhMWEiLz48cG9seWdvbiBwb2ludHM9IjE2LDQgMjcsMTAgMjcsMjIgMTYsMjggNSwyMiA1LDEwIiBmaWxsPSIjMjAyMDIwIiBzdHJva2U9IiNlNjM5NDYiIHN0cm9rZS13aWR0aD0iMS41Ii8+PGNpcmNsZSBjeD0iMTYiIGN5PSIxNiIgcj0iNSIgZmlsbD0iIzE1MTUxNSIgc3Ryb2tlPSIjZTYzOTQ2Ii8+PGNpcmNsZSBjeD0iMTYiIGN5PSIxNiIgcj0iMiIgZmlsbD0iI2U2Mzk0NiIvPjwvc3ZnPg==&logoColor=white" alt="Testnet Live" /></a>
+  <a href="https://github.com/Quai-Vault"><img src="https://img.shields.io/badge/License-MIT-333333?style=for-the-badge" alt="MIT License" /></a>
+  <a href="https://github.com/Quai-Vault/quaivault-contracts"><img src="https://img.shields.io/badge/Tests-154_Passing-2ea043?style=for-the-badge&logo=checkmarx&logoColor=white" alt="154 Tests Passing" /></a>
+</p>
+
+<br />
+
+<p align="center">
+  <img src="assets/og-image.png" alt="Quai Vault — Multisig Wallet" width="700" />
+</p>
+
+<br />
 
 Quai Vault is an open-source, modular multisig wallet system designed for secure, multi-owner treasury management across Quai Network's sharded architecture. It brings Zodiac-compatible smart account infrastructure to Quai, enabling DAOs, teams, and institutions to manage assets with configurable approval thresholds, extensible security modules, and full on-chain transparency.
 
@@ -34,12 +54,12 @@ Quai Vault is an open-source, modular multisig wallet system designed for secure
 
 ## Repositories
 
-| Repository | Description | Stack |
-|---|---|---|
-| [**quaivault-contracts**](https://github.com/Quai-Vault/quaivault-contracts) | Smart contracts — multisig wallet, factory, proxy, and security modules | Solidity 0.8.22 · Hardhat · OpenZeppelin v5 |
-| [**quaivault-frontend**](https://github.com/Quai-Vault/quaivault-frontend) | Wallet management dApp — create, propose, approve, execute transactions | React 18 · TypeScript · quais.js · Zustand |
-| [**quaivault-indexer**](https://github.com/Quai-Vault/quaivault-indexer) | Blockchain event indexer — real-time tracking of all vault activity | TypeScript · Supabase · Docker |
-| [**quaivault-www**](https://github.com/Quai-Vault/quaivault-www) | Marketing site and documentation hub | React 19 · Vite · Three.js · TailwindCSS |
+| | Repository | Description | Stack |
+|:---:|---|---|---|
+| <img src="https://img.shields.io/badge/-Solidity-363636?logo=solidity&logoColor=white" /> | [**quaivault-contracts**](https://github.com/Quai-Vault/quaivault-contracts) | Smart contracts — multisig wallet, factory, proxy, and security modules | Solidity 0.8.22 · Hardhat · OpenZeppelin v5 |
+| <img src="https://img.shields.io/badge/-React-363636?logo=react&logoColor=61DAFB" /> | [**quaivault-frontend**](https://github.com/Quai-Vault/quaivault-frontend) | Wallet management dApp — create, propose, approve, execute transactions | React 18 · TypeScript · quais.js · Zustand |
+| <img src="https://img.shields.io/badge/-TypeScript-363636?logo=typescript&logoColor=3178C6" /> | [**quaivault-indexer**](https://github.com/Quai-Vault/quaivault-indexer) | Blockchain event indexer — real-time tracking of all vault activity | TypeScript · Supabase · Docker |
+| <img src="https://img.shields.io/badge/-Vite-363636?logo=vite&logoColor=646CFF" /> | [**quaivault-www**](https://github.com/Quai-Vault/quaivault-www) | Marketing site and documentation hub | React 19 · Vite · Three.js · TailwindCSS |
 
 ---
 
@@ -176,6 +196,8 @@ Contributions are welcome. Please open an issue or submit a pull request in the 
 
 ---
 
-## License
-
-MIT
+<p align="center">
+  <img src="assets/vault.svg" alt="" width="24" />
+  <br />
+  <sub>MIT License</sub>
+</p>
