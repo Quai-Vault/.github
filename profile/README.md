@@ -137,13 +137,13 @@ Quai Vault is an open-source multisig wallet system designed for secure, multi-o
 ## Smart Contracts
 
 <table>
-<tr><td><b>QuaiVault (Implementation)</b></td><td><code>0x0044AbC8bdAaD4D482eDB22E1B946ACAaB2460C5</code></td></tr>
-<tr><td><b>QuaiVaultFactory</b></td><td><code>0x00475fA887b961E04Cddd6202D49a3949f2d45D7</code></td></tr>
-<tr><td><b>SocialRecoveryModule</b></td><td><code>0x003Ee41F8fFacFCf54119B9cf223ab4CB65ebdF0</code></td></tr>
-<tr><td><b>MultiSend</b></td><td><code>0x002BDFaA9e74022B44035995172B030Ead6aA6Bd</code></td></tr>
+<tr><td><b>QuaiVault (Implementation)</b></td><td><code>0x0006bFD36432079e4E813E383A8FD60f7a131388</code></td></tr>
+<tr><td><b>QuaiVaultFactory</b></td><td><code>0x00613Bd358C36Bed84bf64A9F1bC632d3125779b</code></td></tr>
+<tr><td><b>SocialRecoveryModule</b></td><td><code>0x000a01324137F3DC737017479e7c61F87b90d217</code></td></tr>
+<tr><td><b>MultiSend</b></td><td><code>0x00465B948541CE357ea54BD3C3d8B9995097d199</code></td></tr>
 </table>
 
-<sub>Deployed on Quai Network Cyprus1</sub>
+<sub>Deployed on Quai Network Orchard Testnet — Cyprus1 (chain ID 15000)</sub>
 
 ---
 
